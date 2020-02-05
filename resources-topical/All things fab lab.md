@@ -38,11 +38,11 @@ Other labs equipment —
 
 1. Roland MDX-540 3D Milling Machine
 
-<img src="./fablab/MDX-540.JFIF" width=400>
+<img src="./fablab/MDX-540.jfif" width=400>
 
 1. US ShopBot Desktop Router
 
-<img src="./fablab/ShopBot Desktop Router.JFIF" width=400>
+<img src="./fablab/ShopBot Desktop Router.jfif" width=400>
 
 1. Zund G3 High Performance Cutter
 
