@@ -22,7 +22,16 @@ Other labs equipment —
 
   [Singapore Supplier list](https://epd.opensutd.org/)
 
-  
+
+
+
+[Table of Contents](#table-of-contents)
+
+<a href="#videos">Videos</a>
+
+
+
+
 
 - Equipment list in pictures
 
@@ -164,7 +173,9 @@ Other labs equipment —
 
    <img src="./fablab/asahi koki.jpg" width=400>
 
-## Videos
+[Videos](#videos)
+
+[Open this page on Notion](https://www.notion.so/humblevillager/Fab-Lab-Machines-List-Use-c2feb1b576434884bf93d79a100d7d03) to watch the videos below embedded on the page (not supported on GitHub)   
 
 1. HAAS ST-10 **CNC Lathe**
 
@@ -180,17 +191,17 @@ Other labs equipment —
 
      milling
 
-     https://www.youtube.com/watch?v=Nk3QwTNk6d4
+     [![](http://img.youtube.com/vi/Nk3QwTNk6d4/0.jpg)](http://www.youtube.com/watch?v=Nk3QwTNk6d4 "")
 
      engraving
 
-     https://www.youtube.com/watch?v=p36_p2uDvr4
+     [![](http://img.youtube.com/vi/p36_p2uDvr4/0.jpg)](http://www.youtube.com/watch?v=p36_p2uDvr4 "")
 
 3. Roland MDX-540 **3D Milling Machine**
 
    - Description
 
-     https://www.youtube.com/watch?v=90FHLZRVa2A
+     [![](http://img.youtube.com/vi/90FHLZRVa2A/0.jpg)](http://www.youtube.com/watch?v=90FHLZRVa2A "")
 
 4. US ShopBot **Desktop Router**
 
@@ -198,7 +209,7 @@ Other labs equipment —
 
      woodworking
 
-     https://www.youtube.com/watch?v=hCo_mOzVDJo
+     [![](http://img.youtube.com/vi/hCo_mOzVDJo/0.jpg)](http://www.youtube.com/watch?v=hCo_mOzVDJo "")
 
 5. Zund G3 **High Performance Cutter**
 
@@ -206,7 +217,7 @@ Other labs equipment —
 
      multipurpose cutter, router, etc
 
-     https://www.youtube.com/watch?v=BJPgTFTSEt0
+     [![](http://img.youtube.com/vi/BJPgTFTSEt0/0.jpg)](http://www.youtube.com/watch?v=BJPgTFTSEt0 "")
 
 6. Omax **Water Jet Cutter**
 
@@ -214,7 +225,7 @@ Other labs equipment —
 
      Cut metals very deep
 
-     https://www.youtube.com/watch?v=af7MmbmB34I
+     [![](http://img.youtube.com/vi/af7MmbmB34I/0.jpg)](http://www.youtube.com/watch?v=af7MmbmB34I "")
 
 7. **Metal Shearing** Machine
 
@@ -222,7 +233,7 @@ Other labs equipment —
 
      basically cut sheet metals straight
 
-     https://www.youtube.com/watch?v=PqoJXx7Mv5E
+     [![](http://img.youtube.com/vi/PqoJXx7Mv5E/0.jpg)](http://www.youtube.com/watch?v=PqoJXx7Mv5E "")
 
 **Woodwork Shop**
 
@@ -232,7 +243,7 @@ Other labs equipment —
 
      The famous Rotating Saw you've never seen. Watch your hands.
 
-     https://www.youtube.com/watch?v=7TrZUD9Dcr4
+     [![](http://img.youtube.com/vi/7TrZUD9Dcr4/0.jpg)](http://www.youtube.com/watch?v=7TrZUD9Dcr4 "")
 
 2. HAAS SR-100 **Gantry Sheet Router**
 
@@ -240,7 +251,7 @@ Other labs equipment —
 
      Sheet wood CNC router
 
-     https://www.youtube.com/watch?v=5AfS1YAvrFQ
+     [![](http://img.youtube.com/vi/5AfS1YAvrFQ/0.jpg)](http://www.youtube.com/watch?v=5AfS1YAvrFQ "")
 
 3. Griggio SNA 400 **Band Saw**
 
@@ -252,7 +263,7 @@ Other labs equipment —
 
      https://huphong.com.sg/product/saw/saw-for-metal/band-saw/sna-series/
 
-     https://www.youtube.com/watch?v=1mZQSysdPCk
+     [![](http://img.youtube.com/vi/1mZQSysdPCk/0.jpg)](http://www.youtube.com/watch?v=1mZQSysdPCk "")
 
 4. Griggio GSV13 **Vertical Panel Saw**
 
@@ -260,7 +271,7 @@ Other labs equipment —
 
      panel saw
 
-     https://www.youtube.com/watch?v=40g1LyPvjJ4
+     [![](http://img.youtube.com/vi/40g1LyPvjJ4/0.jpg)](http://www.youtube.com/watch?v=40g1LyPvjJ4 "")
 
 5. Maggi Big 800 **Radial Arm Saw**
 
@@ -268,13 +279,13 @@ Other labs equipment —
 
      Radial Arm Saw. Change angle. Slide one axis.
 
-     https://www.youtube.com/watch?v=8z20P0Jveqc
+     [![](http://img.youtube.com/vi/8z20P0Jveqc/0.jpg)](http://www.youtube.com/watch?v=8z20P0Jveqc "")
 
 6. Makita MLT100 **Table Saw**
 
    - Description
 
-     https://www.youtube.com/watch?v=rEpgt3Tui0g
+     [![](http://img.youtube.com/vi/rEpgt3Tui0g/0.jpg)](http://www.youtube.com/watch?v=rEpgt3Tui0g "")
 
 7. Belt **Sanding** Machine
 
@@ -286,7 +297,7 @@ Other labs equipment —
 
      It bobs up and down
 
-     https://www.youtube.com/watch?v=WqfHj_jk8Gg
+     [![](http://img.youtube.com/vi/WqfHj_jk8Gg/0.jpg)](http://www.youtube.com/watch?v=WqfHj_jk8Gg "")
 
 **Digital Fab Lab**
 
@@ -296,7 +307,7 @@ Other labs equipment —
 
      3D printer
 
-     https://www.youtube.com/watch?v=19l0t2y9wDA
+     [![](http://img.youtube.com/vi/19l0t2y9wDA/0.jpg)](http://www.youtube.com/watch?v=19l0t2y9wDA "")
 
 2. Solido SD300 Pro 3D Printer
 
@@ -304,13 +315,13 @@ Other labs equipment —
 
      Multi-color 3D printing
 
-     https://www.youtube.com/watch?v=7ezyyvTjWDQ
+     [![](http://img.youtube.com/vi/7ezyyvTjWDQ/0.jpg)](http://www.youtube.com/watch?v=7ezyyvTjWDQ "")
 
 3. Z Corporation Zprinter 350
 
    - Description
 
-     https://www.youtube.com/watch?v=sE8SRII19Jg
+     [![](http://img.youtube.com/vi/sE8SRII19Jg/0.jpg)](http://www.youtube.com/watch?v=sE8SRII19Jg "")
 
 4. Objet Connex350 Multi-Material 3D Printing System
 
@@ -318,13 +329,13 @@ Other labs equipment —
 
      good materials, 10 color palettes, smooth finishing, rubbery materials
 
-     https://www.youtube.com/watch?v=ryhzIyTHlbE
+     [![](http://img.youtube.com/vi/ryhzIyTHlbE/0.jpg)](http://www.youtube.com/watch?v=ryhzIyTHlbE "")
 
 5. LaserPro Spirit Engraving
 
    - Description
 
-     https://www.youtube.com/watch?v=kF4b-RABB2Y
+     [![](http://img.youtube.com/vi/kF4b-RABB2Y/0.jpg)](http://www.youtube.com/watch?v=kF4b-RABB2Y "")
 
 6. Raytec RTW-100D Large Format Laser Cutting System
 
@@ -332,13 +343,13 @@ Other labs equipment —
 
    - Description
 
-     https://www.youtube.com/watch?v=6IiohltlV58
+     [![](http://img.youtube.com/vi/6IiohltlV58/0.jpg)](http://www.youtube.com/watch?v=6IiohltlV58 "")
 
 8. Edison 3D Desktop Printers
 
    - Description
 
-     https://www.youtube.com/watch?v=rpKJgIS_Xvo
+     [![](http://img.youtube.com/vi/rpKJgIS_Xvo/0.jpg)](http://www.youtube.com/watch?v=rpKJgIS_Xvo "")
 
 **Maker Space 1 & 2**
 
@@ -357,4 +368,4 @@ Formiga 3D printer
 
   Selective Laser Sintering printing - layer by layer selective laser shooting at powder bed
 
-  https://www.youtube.com/watch?v=SXH8MhJe5yc
+  [![](http://img.youtube.com/vi/SXH8MhJe5yc/0.jpg)](http://www.youtube.com/watch?v=SXH8MhJe5yc "")
