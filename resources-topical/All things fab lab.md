@@ -28,7 +28,7 @@ Other labs equipment —
 
 1. HAAS ST-10 **CNC** Lathe
 
-![HAAS ST-10 CNC Lathe](./fablab/haas.jpg?s=600)
+<img src="./fablab/haas.jpg" width=400>
 
 ![HAAS ST-10 CNC Lathe](./fablab/haas.jpg?s=400)
 
