@@ -25,13 +25,19 @@ Other labs equipment —
 
 ## Table of Contents
 
+<a href="#equipment-list-in-pictures">Equipment list in pictures</a>
+
 <a href="#videos">Videos</a>
 
 
 
 
 
-- Equipment list in pictures
+
+
+
+
+# Equipment list in pictures
 
 1. HAAS ST-10 **CNC** Lathe
 
@@ -173,7 +179,7 @@ Other labs equipment —
 
 # Videos
 
-[Open this page on Notion](https://www.notion.so/humblevillager/Fab-Lab-Machines-List-Use-c2feb1b576434884bf93d79a100d7d03) to watch the videos below embedded on the page (not supported on GitHub)   
+To watch the videos below in embedded form (not supported on GitHub) , [open this page on Notion](https://www.notion.so/humblevillager/Fab-Lab-Machines-List-Use-c2feb1b576434884bf93d79a100d7d03) 
 
 1. HAAS ST-10 **CNC Lathe**
 
