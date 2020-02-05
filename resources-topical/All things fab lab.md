@@ -34,245 +34,311 @@ Other labs equipment —
 
 1. Roland MDX-40A 3D Desktop Milling Machine
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a590f7d-ede8-4110-893e-a6db85c3dd3b/MDX-40A-1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a590f7d-ede8-4110-893e-a6db85c3dd3b/MDX-40A-1.png)
+<img src="./fablab/MDX-40A-1.png" width=400>
 
 1. Roland MDX-540 3D Milling Machine
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ffc9de12-1f37-4427-aa84-0ff1353cdb08/MDX-540.jfif
+<img src="./fablab/MDX-540.JFIF" width=400>
 
 1. US ShopBot Desktop Router
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b99452fd-2b65-4bd1-b704-d1917e737068/ShopBot_Desktop_Router.jfif
+<img src="./fablab/ShopBot Desktop Router.JFIF" width=400>
 
 1. Zund G3 High Performance Cutter
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d0ca3db-d1a7-4a0e-bea0-a2d2c556dacb/Zund_G3.jfif
+<img src="./fablab/Zund G3.png" width=400>
 
 1. Omax Water Jet Cutter
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f179c1e8-b871-428f-a8ce-c4ceb84c4a6e/OMAX_Water_Jet.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f179c1e8-b871-428f-a8ce-c4ceb84c4a6e/OMAX_Water_Jet.png)
+<img src="./fablab/OMAX Water Jet.png" width=400>
 
 1. Metal Shearing Machine
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c5ec62c-303a-4819-93a1-463c69f4fd9b/Metal_Shearing.jfif
+<img src="./fablab/Metal Shearing.jfif" width=400>
 
 **Woodwork Shop**
 
 1. Scheppach TS 4020 Circular Table Saw
 
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/815e3c42-e201-43fb-9672-7f98bba979a1/Sheppach.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/815e3c42-e201-43fb-9672-7f98bba979a1/Sheppach.jpg)
+   <img src="./fablab/Sheppach.jpg" width=400>
 
 2. HAAS SR-100 Gantry Sheet Router
 
-   https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02feba18-484c-4cdc-a2ad-e4e088db071d/HAAS_sr_100.jfif
+   <img src="./fablab/HAAS sr 100.jfif" width=400>
 
 3. Griggio SNA 400 Band Saw
 
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/369c429b-e146-490d-a425-481e2df391a0/griggio_sna.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/369c429b-e146-490d-a425-481e2df391a0/griggio_sna.jpg)
+   <img src="./fablab/griggio sna.jpg" width=400>
 
 4. Griggio GSV13 Vertical Panel Saw
 
-   https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b743432-8c67-4dd5-9710-d5229de89daa/griggio_gsv13.jfif
+   <img src="./fablab/griggio gsv13.jfif">
 
 5. Maggi Big 800 Radial Arm Saw
 
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d07733fd-b09f-4594-9c49-4dc5521c1adc/maggi_big_800.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d07733fd-b09f-4594-9c49-4dc5521c1adc/maggi_big_800.jpg)
+   <img src="./fablab/maggi big 800.jpg" width=400>
 
 6. Makita MLT100 Table Saw
 
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b17bccf-1ac8-41f0-8bb2-a5b7a01a4ae6/makita_mlt100.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b17bccf-1ac8-41f0-8bb2-a5b7a01a4ae6/makita_mlt100.jpg)
+   <img src="./fablab/makita mlt100.jpg" width=400>
 
 7. Belt Sanding Machine
 
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/676c5cc4-a605-4b90-8b78-a3ae58eba159/belt_sanding.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/676c5cc4-a605-4b90-8b78-a3ae58eba159/belt_sanding.jpg)
+   <img src="./fablab/belt sanding.jpg">
 
 8. Disc Sanding Machine
 
-   https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40539acc-e13f-48d7-8819-9b8737471280/disc_sanding.jfif
+   <img src="./fablab/disc sanding.jfif">
 
 9. Bobbin Sander
 
-   https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2732d150-7b3f-47e6-ac5e-a7fff4dd8da8/bobbin_sander.jfif
+   <img src="./fablab/bobbin sander.jfif">
 
 **Digital Fab Lab**
 
 1. Stratasys uPrint 3D Printer
 
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5cd834fa-62b7-4648-a533-e64c2512d471/stratasys_uprint.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5cd834fa-62b7-4648-a533-e64c2512d471/stratasys_uprint.jpg)
+   <img src="./fablab/stratasys uprint.jpg">
 
 2. Solido SD300 Pro 3D Printer
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94c0aa00-c2d5-463f-82d4-a5eca1cb050b/solido_sd300.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94c0aa00-c2d5-463f-82d4-a5eca1cb050b/solido_sd300.jpg)
+<img src="./fablab/solido sd300.jpg" width=400>
 
 1. Z Corporation Zprinter 350
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ccdfff60-a59a-437c-9403-e161aec42501/zprinter.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ccdfff60-a59a-437c-9403-e161aec42501/zprinter.jpg)
+<img src="./fablab/zprinter.jpg" width=400>
 
 1. Objet Connex350 Multi-Material 3D Printing System
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa4fc143-ce4f-4a46-992a-c7b95a5896a5/object_350.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa4fc143-ce4f-4a46-992a-c7b95a5896a5/object_350.png)
+<img src="./fablab/object 350.png" width=400>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/507d2acd-881f-4f40-afca-32e333c80bc8/objet_350.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/507d2acd-881f-4f40-afca-32e333c80bc8/objet_350.jpg)
+<img src="./fablab/objet 350.jpg" width=400>
 
 1. LaserPro Spirit Engraving
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7f7aa60-2a3e-495f-a221-42470a01af9f/spirit_engraving.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7f7aa60-2a3e-495f-a221-42470a01af9f/spirit_engraving.jpg)
+<img src="./fablab/spirit engraving.jpg">
 
 1. Raytec RTW-100D Large Format Laser Cutting System
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b92aaf13-5107-4014-aaf0-247612d03fb9/raytec.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b92aaf13-5107-4014-aaf0-247612d03fb9/raytec.jpg)
+<img src="./fablab/raytec.jpg">
 
 1. Universal Laser Systems PLS6.75
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4e168332-fa07-46b6-a287-bc76cb9bfff5/pls_675.jfif
+<img src="./fablab/pls 675.jfif">
 
 1. Edison 3D Desktop Printers
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc715ac2-e4ac-4732-ab61-f54c20410882/edison.jfif
+<img src="./fablab/edison.jfif">
 
 **Maker Space 1 & 2**
 
 1. KTK LG-13 Manual Feed Drilling Machine
 
-   https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c1a64a6-8e1e-425a-bf2f-6afaa11aec6c/ktk_lg-13.jfif
+   <img src="./fablab/ktk lg-13.jfif">
 
 2. Scheppach BTS 900x Belt & Disc Sander
 
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5cfd81e0-61f8-45d8-a1f4-60f44e32dab5/sheppach_bts_900.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5cfd81e0-61f8-45d8-a1f4-60f44e32dab5/sheppach_bts_900.jpg)
+   <img src="./fablab/sheppach bts 900.jpg" width=400>
 
 3. Metabo BAS 260 Swift Band Saw
 
-   https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95167e94-6152-4e4f-b323-a1feac871df3/metabo_bas.jfif
+   <img src="./fablab/metabo bas.jfif">
 
 4. Formech 686 Vacuum Former
 
-   https://s3-us-west-2.amazonaws.com/secure.notion-static.com/292e2f1b-be9a-40ef-8eab-014b20474272/formech.jfif
+   <img src="./fablab/formech.jfif">
 
 5. Proxxon Scroll Saw
 
-   https://s3-us-west-2.amazonaws.com/secure.notion-static.com/62fcc31d-7ab5-4c54-a294-81c60c9f8edb/proxxon_scroll_saw.jfif
+   <img src="./fablab/proxxon scroll saw.jfif">
 
 6. Manix HCM-2S Hotwire Foam Cutter
 
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d77ed693-0caa-4bb8-8d41-ad46aac77693/manix_hcm_2s.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d77ed693-0caa-4bb8-8d41-ad46aac77693/manix_hcm_2s.jpg)
+   <img src="./fablab/manix hcm 2s.jpg" width=400>
 
 7. Manix ABM-700 Acrylic Bender
 
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fed8380b-7a26-4889-bb0b-18f85b257c17/manix_abm_700.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fed8380b-7a26-4889-bb0b-18f85b257c17/manix_abm_700.jpg)
+   <img src="./fablab/manix abm 700.jpg" width=400>
 
 8. Asahi Koki AF-35 Scroll Saw
 
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a0baea1-fc88-4202-9b8e-ba1d0bae5198/asahi_koki.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a0baea1-fc88-4202-9b8e-ba1d0bae5198/asahi_koki.jpg)
+   <img src="./fablab/asahi koki.jpg" width=400>
 
-**CNC Machine & Metal Shop**
+## Videos
 
-1. HAAS ST-10 
-
-   CNC Lathe
+1. HAAS ST-10 **CNC Lathe**
 
    - Description
 
-2. Roland MDX-40A 
+     [![](http://img.youtube.com/vi/Dwg4pESzBdw/0.jpg)](http://www.youtube.com/watch?v=Dwg4pESzBdw "")
 
-   3D Desktop Milling Machine
-
-   - Description
-
-3. Roland MDX-540 
-
-   3D Milling Machine
+2. Roland MDX-40A **3D Desktop Milling Machine**
 
    - Description
 
-4. US ShopBot 
+     milling machine
 
-   Desktop Router
+     milling
 
-   - Description
+     https://www.youtube.com/watch?v=Nk3QwTNk6d4
 
-5. Zund G3 
+     engraving
 
-   High Performance Cutter
+     https://www.youtube.com/watch?v=p36_p2uDvr4
 
-   - Description
-
-6. Omax 
-
-   Water Jet Cutter
+3. Roland MDX-540 **3D Milling Machine**
 
    - Description
 
-7. Metal Shearing
+     https://www.youtube.com/watch?v=90FHLZRVa2A
 
-    Machine
+4. US ShopBot **Desktop Router**
 
    - Description
+
+     woodworking
+
+     https://www.youtube.com/watch?v=hCo_mOzVDJo
+
+5. Zund G3 **High Performance Cutter**
+
+   - Description
+
+     multipurpose cutter, router, etc
+
+     https://www.youtube.com/watch?v=BJPgTFTSEt0
+
+6. Omax **Water Jet Cutter**
+
+   - Description
+
+     Cut metals very deep
+
+     https://www.youtube.com/watch?v=af7MmbmB34I
+
+7. **Metal Shearing** Machine
+
+   - Description
+
+     basically cut sheet metals straight
+
+     https://www.youtube.com/watch?v=PqoJXx7Mv5E
 
 **Woodwork Shop**
 
-1. Scheppach TS 4020 
-
-   Circular Table Saw
+1. Scheppach TS 4020 **Circular Table Saw**
 
    - Description
 
-2. HAAS SR-100 
+     The famous Rotating Saw you've never seen. Watch your hands.
 
-   Gantry Sheet Router
+     https://www.youtube.com/watch?v=7TrZUD9Dcr4
 
-   - Description
-
-3. Griggio SNA 400 
-
-   Band Saw
+2. HAAS SR-100 **Gantry Sheet Router**
 
    - Description
 
-4. Griggio GSV13 
+     Sheet wood CNC router
 
-   Vertical Panel Saw
+     https://www.youtube.com/watch?v=5AfS1YAvrFQ
 
-   - Description
-
-5. Maggi Big 800 
-
-   Radial Arm Saw
+3. Griggio SNA 400 **Band Saw**
 
    - Description
 
-6. Makita MLT100 
+     Band saw.
 
-   Table Saw
+     Video is larger 700 series. See the difference in specs:
+
+     https://huphong.com.sg/product/saw/saw-for-metal/band-saw/sna-series/
+
+     https://www.youtube.com/watch?v=1mZQSysdPCk
+
+4. Griggio GSV13 **Vertical Panel Saw**
 
    - Description
+
+     panel saw
+
+     https://www.youtube.com/watch?v=40g1LyPvjJ4
+
+5. Maggi Big 800 **Radial Arm Saw**
+
+   - Description
+
+     Radial Arm Saw. Change angle. Slide one axis.
+
+     https://www.youtube.com/watch?v=8z20P0Jveqc
+
+6. Makita MLT100 **Table Saw**
+
+   - Description
+
+     https://www.youtube.com/watch?v=rEpgt3Tui0g
 
 7. Belt **Sanding** Machine
 
 8. Disc **Sanding** Machine
 
-9. Bobbin 
-
-   Sander
+9. Bobbin **Sander**
 
    - Description
+
+     It bobs up and down
+
+     https://www.youtube.com/watch?v=WqfHj_jk8Gg
 
 **Digital Fab Lab**
 
 1. Stratasys uPrint 3D Printer
+
    - Description
+
+     3D printer
+
+     https://www.youtube.com/watch?v=19l0t2y9wDA
+
 2. Solido SD300 Pro 3D Printer
+
    - Description
+
+     Multi-color 3D printing
+
+     https://www.youtube.com/watch?v=7ezyyvTjWDQ
+
 3. Z Corporation Zprinter 350
+
    - Description
+
+     https://www.youtube.com/watch?v=sE8SRII19Jg
+
 4. Objet Connex350 Multi-Material 3D Printing System
+
    - Description
+
+     good materials, 10 color palettes, smooth finishing, rubbery materials
+
+     https://www.youtube.com/watch?v=ryhzIyTHlbE
+
 5. LaserPro Spirit Engraving
+
    - Description
+
+     https://www.youtube.com/watch?v=kF4b-RABB2Y
+
 6. Raytec RTW-100D Large Format Laser Cutting System
+
 7. Universal Laser Systems PLS6.75
+
    - Description
+
+     https://www.youtube.com/watch?v=6IiohltlV58
+
 8. Edison 3D Desktop Printers
+
    - Description
+
+     https://www.youtube.com/watch?v=rpKJgIS_Xvo
 
 **Maker Space 1 & 2**
 
@@ -288,3 +354,7 @@ https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc715ac2-e4ac-4732-a
 Formiga 3D printer
 
 - Description
+
+  Selective Laser Sintering printing - layer by layer selective laser shooting at powder bed
+
+  https://www.youtube.com/watch?v=SXH8MhJe5yc
