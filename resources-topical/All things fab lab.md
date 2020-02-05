@@ -16,12 +16,108 @@ Other labs equipment —
 
 # Table of Contents
 
-- <a href="#equipment-list-in-pictures">Equipment list in pictures</a>
+- <a href="#equipment-list">Fab Lab equipment list</a>
+- <a href="#equipment-list-unbolded">Fab Lab equipment list (unbolded)</a>
+- <a href="#equipment-list-in-pictures">Fab Lab equipment list in pictures</a>
 
-- <a href="#videos">Videos</a>
+- <a href="#videos">Fab Lab equipment list in videos</a>
 - <a href="#websites-and sites-related-to-fab-lab-and-fabbing">Websites and sites related to fab lab and fabbing</a>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+
+
+
+# Equipment list
+
+**CNC Machine & Metal Shop**
+
+1. HAAS ST-10 **CNC Lathe**
+2. Roland MDX-40A 3D **Desktop Milling Machine**
+3. Roland MDX-540 3D **Milling Machine**
+4. US ShopBot **Desktop Router**
+5. Zund G3 High Performance **Cutter**
+6. Omax **Water Jet Cutter**
+7. **Metal Shearing** Machine
+
+**Woodwork Shop**
+
+1. Scheppach TS 4020 **Circular Table Saw**
+2. HAAS SR-100 **Gantry Sheet Router**
+3. Griggio SNA 400 **Band Saw**
+4. Griggio GSV13 **Vertical Panel Saw**
+5. Maggi Big 800 **Radial Arm Saw**
+6. Makita MLT100 **Table Saw**
+7. **Belt Sanding** Machine
+8. **Disc Sanding** Machine
+9. **Bobbin Sander**
+
+**Digital Fab Lab**
+
+1. Stratasys **uPrint** **3D Printer**
+2. Solido **SD300 Pro** **3D Printer**
+3. Z Corporation **Zprinter 350**
+4. Objet Connex350 **Multi-Material 3D Printing System**
+5. LaserPro Spirit **Engraving**
+6. Raytec RTW-100D **Large Format Laser Cutting System**
+7. Universal Laser Systems PLS6.75
+8. Edison **3D Desktop Printers**
+
+**Maker Space 1 & 2**
+
+1. KTK LG-13 **Manual Feed Drilling Machine**
+2. Scheppach BTS 900x **Belt & Disc Sander**
+3. Metabo BAS 260 **Swift Band Saw**
+4. Formech 686 **Vacuum Former**
+5. Proxxon **Scroll Saw**
+6. Manix HCM-2S **Hotwire Foam Cutter**
+7. Manix ABM-700 **Acrylic Bender**
+8. Asahi Koki AF-35 **Scroll Saw**
+
+# Equipment list (unbolded)
+
+**CNC Machine & Metal Shop**
+
+1. HAAS ST-10 CNC Lathe
+2. Roland MDX-40A 3D Desktop Milling Machine
+3. Roland MDX-540 3D Milling Machine
+4. US ShopBot Desktop Router
+5. Zund G3 High Performance Cutter
+6. Omax Water Jet Cutter
+7. Metal Shearing Machine
+
+**Woodwork Shop**
+
+1. Scheppach TS 4020 Circular Table Saw
+2. HAAS SR-100 Gantry Sheet Router
+3. Griggio SNA 400 Band Saw
+4. Griggio GSV13 Vertical Panel Saw
+5. Maggi Big 800 Radial Arm Saw
+6. Makita MLT100 Table Saw
+7. Belt Sanding Machine
+8. Disc Sanding Machine
+9. Bobbin Sander
+
+**Digital Fab Lab**
+
+1. Stratasys uPrint 3D Printer
+2. Solido SD300 Pro 3D Printer
+3. Z Corporation Zprinter 350
+4. Objet Connex350 Multi-Material 3D Printing System
+5. LaserPro Spirit Engraving
+6. Raytec RTW-100D Large Format Laser Cutting System
+7. Universal Laser Systems PLS6.75
+8. Edison 3D Desktop Printers
+
+**Maker Space 1 & 2**
+
+1. KTK LG-13 Manual Feed Drilling Machine
+2. Scheppach BTS 900x Belt & Disc Sander
+3. Metabo BAS 260 Swift Band Saw
+4. Formech 686 Vacuum Former
+5. Proxxon Scroll Saw
+6. Manix HCM-2S Hotwire Foam Cutter
+7. Manix ABM-700 Acrylic Bender
+8. Asahi Koki AF-35 Scroll Saw
 
 
 
@@ -173,13 +269,15 @@ To watch the videos below in embedded form (not supported on GitHub) , [open thi
 
    - Description
 
+     A CNC (computer numerical control) machine that "shapes wood, metal, other materials by using a rotating drive which turns the piece being worked on against changeable cutting tools"
+
      [![](http://img.youtube.com/vi/Dwg4pESzBdw/0.jpg)](http://www.youtube.com/watch?v=Dwg4pESzBdw "")
 
 2. Roland MDX-40A **3D Desktop Milling Machine**
 
    - Description
 
-     milling machine
+     A machine that "cuts or shapes metal using a rotating tool"
 
      milling
 
@@ -193,11 +291,15 @@ To watch the videos below in embedded form (not supported on GitHub) , [open thi
 
    - Description
 
+     A machine that "cuts or shapes metal using a rotating tool"
+
      [![](http://img.youtube.com/vi/90FHLZRVa2A/0.jpg)](http://www.youtube.com/watch?v=90FHLZRVa2A "")
 
 4. US ShopBot **Desktop Router**
 
    - Description
+
+     "a power tool with a shaped cutter .. for making grooves"
 
      woodworking
 
@@ -215,7 +317,7 @@ To watch the videos below in embedded form (not supported on GitHub) , [open thi
 
    - Description
 
-     Cut metals very deep
+     Cut metals very deep (up to 15 cm or 6 inches) using a water jet
 
      [![](http://img.youtube.com/vi/af7MmbmB34I/0.jpg)](http://www.youtube.com/watch?v=af7MmbmB34I "")
 
@@ -233,7 +335,7 @@ To watch the videos below in embedded form (not supported on GitHub) , [open thi
 
    - Description
 
-     The famous Rotating Saw you've never seen. Watch your hands.
+     The famous Rotating Saw on a tabletop
 
      [![](http://img.youtube.com/vi/7TrZUD9Dcr4/0.jpg)](http://www.youtube.com/watch?v=7TrZUD9Dcr4 "")
 
@@ -241,7 +343,7 @@ To watch the videos below in embedded form (not supported on GitHub) , [open thi
 
    - Description
 
-     Sheet wood CNC router
+     Sheet wood CNC (computer numerical machine) router (machine that creates grooves)
 
      [![](http://img.youtube.com/vi/5AfS1YAvrFQ/0.jpg)](http://www.youtube.com/watch?v=5AfS1YAvrFQ "")
 
@@ -269,13 +371,15 @@ To watch the videos below in embedded form (not supported on GitHub) , [open thi
 
    - Description
 
-     Radial Arm Saw. Change angle. Slide one axis.
+     Radial Arm Saw, can change angle, slide along one axis.
 
      [![](http://img.youtube.com/vi/8z20P0Jveqc/0.jpg)](http://www.youtube.com/watch?v=8z20P0Jveqc "")
 
 6. Makita MLT100 **Table Saw**
 
    - Description
+
+     Rotating table saw
 
      [![](http://img.youtube.com/vi/rEpgt3Tui0g/0.jpg)](http://www.youtube.com/watch?v=rEpgt3Tui0g "")
 
@@ -287,7 +391,7 @@ To watch the videos below in embedded form (not supported on GitHub) , [open thi
 
    - Description
 
-     It bobs up and down
+     It bobs up and down while rotating on its axis
 
      [![](http://img.youtube.com/vi/WqfHj_jk8Gg/0.jpg)](http://www.youtube.com/watch?v=WqfHj_jk8Gg "")
 
@@ -297,7 +401,9 @@ To watch the videos below in embedded form (not supported on GitHub) , [open thi
 
    - Description
 
-     3D printer
+     3D printer using FDM (standard 3D printing, fused deposition modeling)
+
+     "The uPrint is a professional-grade printer designed for durability and demanding industrial use."
 
      [![](http://img.youtube.com/vi/19l0t2y9wDA/0.jpg)](http://www.youtube.com/watch?v=19l0t2y9wDA "")
 
@@ -306,6 +412,8 @@ To watch the videos below in embedded form (not supported on GitHub) , [open thi
    - Description
 
      Multi-color 3D printing
+
+     
 
      [![](http://img.youtube.com/vi/7ezyyvTjWDQ/0.jpg)](http://www.youtube.com/watch?v=7ezyyvTjWDQ "")
 
