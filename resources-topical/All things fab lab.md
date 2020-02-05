@@ -16,12 +16,25 @@ Other labs equipment —
 
 # Table of Contents
 
+## Fab Lab in lists
+
 - <a href="#equipment-list">Fab Lab equipment list</a>
 - <a href="#equipment-list-unbolded">Fab Lab equipment list (unbolded)</a>
+- <a href="#equipment-list-description">Fab Lab equipment list with description</a>
 - <a href="#equipment-list-in-pictures">Fab Lab equipment list in pictures</a>
 
 - <a href="#videos">Fab Lab equipment list in videos</a>
+
+
+
+## Fab Lab things
+
 - <a href="#websites-and sites-related-to-fab-lab-and-fabbing">Websites and sites related to fab lab and fabbing</a>
+  - Fab Lab booking website; official SUTD fab lab website with instructions
+
+<Where can I print things?>
+
+<Where can I photocopy things?>
 
 <br><br><br><br><br><br><br><br><br>
 
@@ -119,7 +132,18 @@ Other labs equipment —
 7. Manix ABM-700 Acrylic Bender
 8. Asahi Koki AF-35 Scroll Saw
 
+# Equipment list (Description)
 
+
+
+The ZPrinter 350 also shares the advantages of the entire ZPrinter line, including:
+
+- Industry's lowest operating costs - one-fifth that of other technologies
+- Fastest print speed - produces prototypes five to 10 times faster than all other systems
+- Breakthrough ease of use - performs most operations automatically
+- High throughput - easily prints multiple models simultaneously, providing the productivity that engineering departments and classrooms need
+- High resolution - enables the printing of complex geometries and intricate details
+- Safety and office compatibility - no cumbersome supports that must be cut or dissolved with toxic chemicals.
 
 # Equipment list in pictures
 
@@ -413,6 +437,10 @@ To watch the videos below in embedded form (not supported on GitHub) , [open thi
 
      Multi-color 3D printing
 
+     "The SD300 uses Plastic Sheet Lamination technology to produce 3D objects:"
+
+     > "The materials used in the SD300 Pro are a combination of PVC (PolyVinyl Chloride) and our own adhesive which results in rugged yet inexpensive models. These models can be machined, drilled, finished and painted and show no distortion over time."
+
      
 
      [![](http://img.youtube.com/vi/7ezyyvTjWDQ/0.jpg)](http://www.youtube.com/watch?v=7ezyyvTjWDQ "")
@@ -421,13 +449,31 @@ To watch the videos below in embedded form (not supported on GitHub) , [open thi
 
    - Description
 
+     high end monochrome 3D printer using powder and binder.
+
+     "the world's first automated, monochrome 3D printer and the company's most affordable automated 3D printer to date"
+
+     "Unlike other monochrome 3D printers, the ZPrinter 350 delivers high-end functionality such as:
+
+     - automatic material loading
+     - snap-in binder cartridges
+     - integrated recycling of unused build material
+     - self-monitoring operation
+     - control from both the desktop and printer
+     - 0.8 in/hour (20 mm/hour) vertical build speed
+     - 8 x 10 x 8 in (203 x 254 x 203 mm) build size
+     - 300 x 450 dpi resolution
+     - office-safe build materials, aggressive dust-control, and zero liquid waste"
+
      [![](http://img.youtube.com/vi/sE8SRII19Jg/0.jpg)](http://www.youtube.com/watch?v=sE8SRII19Jg "")
 
 4. Objet Connex350 Multi-Material 3D Printing System
 
    - Description
 
-     good materials, 10 color palettes, smooth finishing, rubbery materials
+     good materials, 10 color palettes, smooth finishing, rubbery materials. FDM printing
+
+     "The Connex3 system was the first 3D printer in the world to simultaneously 3D print multiple colors and materials."
 
      [![](http://img.youtube.com/vi/ryhzIyTHlbE/0.jpg)](http://www.youtube.com/watch?v=ryhzIyTHlbE "")
 
@@ -470,7 +516,13 @@ Formiga 3D printer
 
   [![](http://img.youtube.com/vi/SXH8MhJe5yc/0.jpg)](http://www.youtube.com/watch?v=SXH8MhJe5yc "")
 
-#Websites and sites related to fab lab and fabbing
+# Websites and sites related to fab lab and fabbing
+
+- Fab Lab booking 
+
+- [Official SUTD Fab Lab website with instructions](https://bit.ly/sutdfablab) (bit.ly/sutdfablab)
+
+  <img src="./fablab/fablabwebsite.png" width=500 />
 
 - https://all3dp.com/
 
