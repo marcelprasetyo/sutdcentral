@@ -27,7 +27,7 @@ last updated: Feb 2020
 
 ## Fab Lab things
 
-- <a href="#websites-and sites-related-to-fab-lab-and-fabbing">Websites and sites related to fab lab and fabbing</a>
+- <a href="#websites-and-sites-related-to-fab-lab-and-fabbing">Websites and sites related to fab lab and fabbing</a>
   - Fab Lab booking website; official SUTD fab lab website with instructions
 
 <br><br><br><br><br><br><br><br><br>
