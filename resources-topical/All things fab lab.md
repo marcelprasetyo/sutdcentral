@@ -130,83 +130,57 @@ last updated: Feb 2020
 
 1. HAAS ST-10 **CNC Lathe**
 
-   - Description
-
-     A CNC (computer numerical control) machine that "shapes wood, metal, other materials by using a rotating drive which turns the piece being worked on against changeable cutting tools"
+   A CNC (computer numerical control) machine that "shapes wood, metal, other materials by using a rotating drive which turns the piece being worked on against changeable cutting tools"
 
 2. Roland MDX-40A **3D Desktop Milling Machine**
 
-   - Description
-
-     A machine that "cuts or shapes metal using a rotating tool"
+   A machine that "cuts or shapes metal using a rotating tool"
 
 3. Roland MDX-540 **3D Milling Machine**
 
-   - Description
-
-     A machine that "cuts or shapes metal using a rotating tool"
+   A machine that "cuts or shapes metal using a rotating tool"
 
 4. US ShopBot **Desktop Router**
 
-   - Description
-
-     "a power tool with a shaped cutter .. for making grooves"
+   "a power tool with a shaped cutter .. for making grooves"
 
 5. Zund G3 **High Performance Cutter**
 
-   - Description
-
-     multipurpose cutter, router, etc
+   multipurpose cutter, router, etc
 
 6. Omax **Water Jet Cutter**
 
-   - Description
-
-     Cut metals very deep (up to 15 cm or 6 inches) using a water jet
+   Cut metals very deep (up to 15 cm or 6 inches) using a water jet
 
 7. **Metal Shearing** Machine
 
-   - Description
-
-     basically cut sheet metals straight
+   basically cut sheet metals straight
 
 **Woodwork Shop**
 
 1. Scheppach TS 4020 **Circular Table Saw**
 
-   - Description
-
-     The famous Rotating Saw on a tabletop
+   The famous Rotating Saw on a tabletop
 
 2. HAAS SR-100 **Gantry Sheet Router**
 
-   - Description
-
-     Sheet wood CNC (computer numerical machine) router (machine that creates grooves)
+   Sheet wood CNC (computer numerical machine) router (machine that creates grooves)
 
 3. Griggio SNA 400 **Band Saw**
 
-   - Description
-
-     Band saw.
+   Band saw.
 
 4. Griggio GSV13 **Vertical Panel Saw**
 
-   - Description
-
-     panel saw
+   panel saw
 
 5. Maggi Big 800 **Radial Arm Saw**
 
-   - Description
-
-     Radial Arm Saw, can change angle, slide along one axis.
+   Radial Arm Saw, can change angle, slide along one axis.
 
 6. Makita MLT100 **Table Saw**
 
-   - Description
-
-     Rotating table saw
+   Rotating table saw
 
 7. Belt **Sanding** Machine
 
@@ -218,77 +192,65 @@ last updated: Feb 2020
 
 9. Bobbin **Sander**
 
-   - Description
-
-     It bobs up and down while rotating on its axis
+   It bobs up and down while rotating on its axis
 
 **Digital Fab Lab**
 
 1. Stratasys uPrint 3D Printer
 
-   - Description
+   3D printer using FDM (standard 3D printing, fused deposition modeling)
 
-     3D printer using FDM (standard 3D printing, fused deposition modeling)
-
-     "The uPrint is a professional-grade printer designed for durability and demanding industrial use."
+   "The uPrint is a professional-grade printer designed for durability and demanding industrial use."
 
 2. Solido SD300 Pro 3D Printer
 
-   - Description
+   Multi-color 3D printing
 
-     Multi-color 3D printing
+   "The SD300 uses Plastic Sheet Lamination technology to produce 3D objects:"
 
-     "The SD300 uses Plastic Sheet Lamination technology to produce 3D objects:"
-
-     > "The materials used in the SD300 Pro are a combination of PVC (PolyVinyl Chloride) and our own adhesive which results in rugged yet inexpensive models. These models can be machined, drilled, finished and painted and show no distortion over time."
+   > "The materials used in the SD300 Pro are a combination of PVC (PolyVinyl Chloride) and our own adhesive which results in rugged yet inexpensive models. These models can be machined, drilled, finished and painted and show no distortion over time."
 
 3. Z Corporation Zprinter 350
 
-   - Description
+   high end monochrome 3D printer using powder and binder.
 
-     high end monochrome 3D printer using powder and binder.
+   "the world's first automated, monochrome 3D printer and the company's most affordable automated 3D printer to date"
 
-     "the world's first automated, monochrome 3D printer and the company's most affordable automated 3D printer to date"
+   "Unlike other monochrome 3D printers, the ZPrinter 350 delivers high-end functionality such as:
 
-     "Unlike other monochrome 3D printers, the ZPrinter 350 delivers high-end functionality such as:
+   - automatic material loading
+   - snap-in binder cartridges
+   - integrated recycling of unused build material
+   - self-monitoring operation
+   - control from both the desktop and printer
+   - 0.8 in/hour (20 mm/hour) vertical build speed
+   - 8 x 10 x 8 in (203 x 254 x 203 mm) build size
+   - 300 x 450 dpi resolution
+   - office-safe build materials, aggressive dust-control, and zero liquid waste"
 
-     - automatic material loading
-     - snap-in binder cartridges
-     - integrated recycling of unused build material
-     - self-monitoring operation
-     - control from both the desktop and printer
-     - 0.8 in/hour (20 mm/hour) vertical build speed
-     - 8 x 10 x 8 in (203 x 254 x 203 mm) build size
-     - 300 x 450 dpi resolution
-     - office-safe build materials, aggressive dust-control, and zero liquid waste"
+   The ZPrinter 350 also shares the advantages of the entire ZPrinter line, including:
 
-     The ZPrinter 350 also shares the advantages of the entire ZPrinter line, including:
-
-     - Industry's lowest operating costs - one-fifth that of other technologies
-     - Fastest print speed - produces prototypes five to 10 times faster than all other systems
-     - Breakthrough ease of use - performs most operations automatically
-     - High throughput - easily prints multiple models simultaneously, providing the productivity that engineering departments and classrooms need
-     - High resolution - enables the printing of complex geometries and intricate details
-     - Safety and office compatibility - no cumbersome supports that must be cut or dissolved with toxic chemicals.
+   - Industry's lowest operating costs - one-fifth that of other technologies
+   - Fastest print speed - produces prototypes five to 10 times faster than all other systems
+   - Breakthrough ease of use - performs most operations automatically
+   - High throughput - easily prints multiple models simultaneously, providing the productivity that engineering departments and classrooms need
+   - High resolution - enables the printing of complex geometries and intricate details
+   - Safety and office compatibility - no cumbersome supports that must be cut or dissolved with toxic chemicals.
 
 4. Objet Connex350 Multi-Material 3D Printing System
 
-   - Description
+   good materials, 10 color palettes, smooth finishing, rubbery materials. FDM printing
 
-     good materials, 10 color palettes, smooth finishing, rubbery materials. FDM printing
-
-     "The Connex3 system was the first 3D printer in the world to simultaneously 3D print multiple colors and materials."
+   "The Connex3 system was the first 3D printer in the world to simultaneously 3D print multiple colors and materials."
 
 5. LaserPro Spirit Engraving
 
-   - Description
+   laser cutter
 
-     laser cutter
+   "The GCC **LaserPro Spirit GLS Hybrid** is the flagship model of the award winning Spirit line of laser engravers."
+   Work Area: 34 x 24 in. (860 x 610mm) Extendable to 38 x 24 in. (965 x 610 mm)
 
-     "The GCC **LaserPro Spirit GLS Hybrid** is the flagship model of the award winning Spirit line of laser engravers."
-     Work Area: 34 x 24 in. (860 x 610mm) Extendable to 38 x 24 in. (965 x 610 mm)
-
-     https://www.laserprona.com/laser-systems-spirit-gls/
+   https://www.laserprona.com/laser-systems-spirit-gls/
 
 6. Raytec RTW-100D Large Format Laser Cutting System
 
@@ -298,32 +260,28 @@ last updated: Feb 2020
 
 7. Universal Laser Systems PLS6.75
 
-   - Description
+   Free standing laser cutter system 
 
-     Free standing laser cutter system CO2 laser
+   Processing area  32 x 18 in (813 x 457 mm)
 
-     Processing area  32 x 18 in (813 x 457 mm)
+   https://www.ulsinc.com/products/platforms/pls6-75
 
-     https://www.ulsinc.com/products/platforms/pls6-75
-
-     - SmartPIN Auto Focus
-     - SmartBOX - ventilation box with honeycomb table
-     - SmartLID - open lid from rear 
-     - Pass-Through - doors can be opened for "extremely long working pieces"
-     - Reliable and Made in USA CO2 Lasers
-     - QSM (Quality speed mode) - speedy while retaining high quality
-     - Key Switch & Emergency System - safeguards machine from unauthorized use
-     - SmartACT (reduces ramping process, increasing speed)
-     - SmartLIGHT - internal light for easy viewing
-     - Drag and Engrave
-     - Programmable Origin - relocate origin to any location
-     - DuraGuide - "Systematic and reliable motion system embedded with strong mechanical framework, reinforced Kevlar belts, and accurate servomotor control technology to deliver superb output quality under rapid movement."
+   - SmartPIN Auto Focus
+   - SmartBOX - ventilation box with honeycomb table
+   - SmartLID - open lid from rear 
+   - Pass-Through - doors can be opened for "extremely long working pieces"
+   - Reliable and Made in USA CO2 Lasers
+   - QSM (Quality speed mode) - speedy while retaining high quality
+   - Key Switch & Emergency System - safeguards machine from unauthorized use
+   - SmartACT (reduces ramping process, increasing speed)
+   - SmartLIGHT - internal light for easy viewing
+   - Drag and Engrave
+   - Programmable Origin - relocate origin to any location
+   - DuraGuide - "Systematic and reliable motion system embedded with strong mechanical framework, reinforced Kevlar belts, and accurate servomotor control technology to deliver superb output quality under rapid movement."
 
 8. Edison 3D Desktop Printers
 
-   - Description
-
-     Standard cheap 3D desktop printer
+   Standard cheap 3D desktop printer
 
 **Maker Space 1 & 2**
 
