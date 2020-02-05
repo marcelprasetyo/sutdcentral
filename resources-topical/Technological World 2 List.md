@@ -1,29 +1,5 @@
 
 
-pages 3 and above is free-form
-
-Technological World List == page 3: guide to the latest technological trends and impacts.
-
-by humble_villager.
-
-how shall we take you through that technology?
-
-from the beginning we are technological beings ...
-
-sticks, sharpened stones, to mud bricks, striking fire.
-
-writing is one of the most significant inventions, along with it writing medium (papyrus, parchment, bamboo) .. then Gutenberg's metal movable-type printing press , then Internet at the close of 20th century. the first quantum revolution,
-
-VR ... its functions and impacts in the world out there
-
-for technical preparedness ... e.g. how do i become a good cs student, etc .. here are these learner™ editions . these crash course videos will prepare you .. especially for CS major. the learn folder under this repo may capture these.
-
-Technological World List == page 2: — in a list. (without all the commentary bullshit)
-
-read the first part for HASS part of technology; read third part to be introduced to important topics of technology and their impacts.
-
-chart your progress by using highlighter browser extension (will it disappear if content changes?)
-
 *awesome-lists* — never miss them, never get tired of them.
 
 other collections:
@@ -179,7 +155,7 @@ https://mylibrary.sutd.edu.sg/discovery-alerts-weekly-archive
 
 https://mylibrary.sutd.edu.sg/node/1489 -topical updates
 
-all adobe suite is free - including Ps, Ai, Premiere pro, In, Acrobat Pro super powerful pdf editor (expand: lightroom etc)
+a lot of adobe suite (Creative Cloud) is bought for us - including Photoshop, Illustrator, Premiere pro, InDesign, Acrobat Pro super powerful pdf editor, Adobe XD, Adobe Behance (collection of inspiring graphic designs)
 
 the full suite of Office 365: 1 TB OneDrive storage (while still student), microsoft office apps, Teams (team chat), Sway (easy presentation), . MS office desktop allows simultaneous collaboration
 
