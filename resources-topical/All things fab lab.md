@@ -28,7 +28,9 @@ Other labs equipment —
 
 1. HAAS ST-10 **CNC** Lathe
 
-![HAAS ST-10 CNC Lathe](./fablab/haas)
+![HAAS ST-10 CNC Lathe](./fablab/haas.jpg?s=600)
+
+![HAAS ST-10 CNC Lathe](./fablab/haas.jpg?s=400)
 
 1. Roland MDX-40A 3D Desktop Milling Machine
 
