@@ -12,28 +12,16 @@ IDC Fab equipment ( a lot ). IDC building plan
 
 Other labs equipment —
 
-- All things fablab
-
-  https://all3dp.com/
-
-  [Awesome 3d printing filaments for different purposes](https://all3dp.com/1/3d-printer-filament-types-3d-printing-3d-filament/)
-
-  thingiverse
-
-  [Singapore Supplier list](https://epd.opensutd.org/)
 
 
-## Table of Contents
+# Table of Contents
 
-<a href="#equipment-list-in-pictures">Equipment list in pictures</a>
+- <a href="#equipment-list-in-pictures">Equipment list in pictures</a>
 
-<a href="#videos">Videos</a>
+- <a href="#videos">Videos</a>
+- <a href="#websites-and sites-related-to-fab-lab-and-fabbing">Websites and sites related to fab lab and fabbing</a>
 
-
-
-
-
-
+<br><br><br><br><br><br>
 
 
 
@@ -373,3 +361,14 @@ Formiga 3D printer
   Selective Laser Sintering printing - layer by layer selective laser shooting at powder bed
 
   [![](http://img.youtube.com/vi/SXH8MhJe5yc/0.jpg)](http://www.youtube.com/watch?v=SXH8MhJe5yc "")
+
+#Websites and sites related to fab lab and fabbing
+
+- https://all3dp.com/
+
+- [Awesome 3d printing filaments for different purposes](https://all3dp.com/1/3d-printer-filament-types-3d-printing-3d-filament/)
+
+- thingiverse
+
+- [Singapore Supplier list](https://epd.opensutd.org/)
+
