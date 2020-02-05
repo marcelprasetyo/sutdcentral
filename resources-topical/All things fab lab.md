@@ -25,7 +25,7 @@ Other labs equipment —
 
 ## Table of Contents
 
-<a href="##videos">Videos</a>
+<a href="#videos">Videos</a>
 
 
 
@@ -171,7 +171,7 @@ Other labs equipment —
 
    <img src="./fablab/asahi koki.jpg" width=400>
 
-## Videos
+# Videos
 
 [Open this page on Notion](https://www.notion.so/humblevillager/Fab-Lab-Machines-List-Use-c2feb1b576434884bf93d79a100d7d03) to watch the videos below embedded on the page (not supported on GitHub)   
 
