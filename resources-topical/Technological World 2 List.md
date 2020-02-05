@@ -245,10 +245,6 @@ IFTTT - semi-automation tech for a lot of things ; Zapier (freemium)
 
 **REALLY??**
 
-
-
-[sdfs](notion://www.notion.so/humblevillager/059d0a5febcb42d2bbfaab129c2069eb?v=af203da3fc134381b6214bfb26758465&p=8673e17d8fda4619b01ccf7e2fb98ffa#down)
-
 some highlights
 
 VR -> oculus quest

@@ -1,3 +1,5 @@
+# All things Fab Lab
+
 Adapted from: https://asd.sutd.edu.sg/about/facilities/fabrication-lab/
 
 
@@ -7,6 +9,8 @@ if you can do 3d printing and laser cutting only, kids and old people in singapo
 you are always welcome to use these machines, be sincere, to want to learn, to want to make things, and the staff will offer you help.
 
 
+
+last updated: Feb 2020
 
 # Table of Contents
 
@@ -25,10 +29,6 @@ you are always welcome to use these machines, be sincere, to want to learn, to w
 
 - <a href="#websites-and sites-related-to-fab-lab-and-fabbing">Websites and sites related to fab lab and fabbing</a>
   - Fab Lab booking website; official SUTD fab lab website with instructions
-
-<Where can I print things?>
-
-<Where can I photocopy things?>
 
 <br><br><br><br><br><br><br><br><br>
 
